@@ -1,7 +1,7 @@
 ### Opa, tudo bom? pode me chamar por Vando, seja bem-vindo ao meu perfil!
 
 - 🖥️ Hoje trabalho com back-end e front-end!
-- 📚 Atualmente estudo: Java, JavaScript e Ruby on Rails.
+- 📚 Atualmente estudo: Java, JavaScript, HTML5, CSS3 e Ruby on Rails.
 - 📧 Contate-me pelo meu e-mail: vandosilva.0508@gmail.com
 - 🤔 Estou procurando ajuda para arrumar um emprego.
 - 😄 Pronomes: Ele/Dele
