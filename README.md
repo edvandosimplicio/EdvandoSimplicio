@@ -1,8 +1,8 @@
 ### Opa, tudo bom? pode me chamar por Vando, seja bem-vindo ao meu perfil!
 
-- 🖥️ Hoje trabalho com back-end e front-end!
-- 📚 Atualmente estudo: Java, JavaScript, HTML5, CSS3 e Ruby on Rails.
-- 📧 Contate-me pelo meu e-mail: vandosilva.0508@gmail.com
+- 🖥️ Hoje pretendo trabalhar com back-end!
+- 📚 Atualmente estudo: Java!
+- 📧 Contate-me pelo meu e-mail: edvandosimplicio0508@gmail.com
 - 🤔 Estou procurando ajuda para arrumar um emprego.
 - 😄 Pronomes: Ele/Dele
  <div>
@@ -13,8 +13,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vando-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vando-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vando-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Vando-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vando-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
