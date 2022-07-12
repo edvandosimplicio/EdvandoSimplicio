@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda para arrumar um emprego.
 - 😄 Pronomes: Ele/Dele
  <div>
-  <a href="https://github.com/vandosilv0508">
+  <a href="https://github.com/edvandosimplicio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandosilv0508&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandosilv0508&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -25,7 +25,7 @@
   
 <div>
 <a href="https://www.linkedin.com/in/edvando-simplício-387806210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:vandosilva.0508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:edvandosimplicio0508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:vandosilva.0508@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://t.me/vandosilva0508" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/obser.vando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
