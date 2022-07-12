@@ -18,7 +18,6 @@
   <img align="center" alt="Vando-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Vando-Pr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Vando-Ae" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
-  <img align="right" alt="Vando-gif" src="">
 </div>
   
   ##
