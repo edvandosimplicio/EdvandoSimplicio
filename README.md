@@ -1,7 +1,7 @@
 ### Opa, tudo bom? pode me chamar por Vando, seja bem-vindo ao meu perfil!
 
-- 🖥️ Hoje pretendo trabalhar com back-end!
-- 📚 Atualmente estudo: Java!
+- 🖥️ Hoje pretendo trabalhar com front-end!
+- 📚 Atualmente estudo: Node.js!
 - 📧 Contate-me pelo meu e-mail: edvandosimplicio0508@gmail.com
 - 🤔 Estou procurando ajuda para arrumar um emprego.
 - 😄 Pronomes: Ele/Dele
