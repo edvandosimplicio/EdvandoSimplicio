@@ -1,15 +1,35 @@
-### Opa, tudo bom? pode me chamar por Vando, seja bem-vindo ao meu perfil!
+### Hey, welcome to my profile 💻🔎
+# Edvando Simplício 😋
+Developer front-end
 
-- 🖥️ Hoje pretendo trabalhar com front-end!
-- 📚 Atualmente estudo: Node.js!
-- 📧 Contate-me pelo meu e-mail: edvandosimplicio0508@gmail.com
-- 🤔 Estou procurando ajuda para arrumar um emprego.
-- 😄 Pronomes: Ele/Dele
- <div>
-  <a href="https://github.com/edvandosimplicio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvandosimplicio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvandosimplicio&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edvandosimplicio&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvandosimplicio)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🧐 About
+Sr. Software Consultant, who likes to code and coffe. I'm always learning new things to help others achieve great things with technology.
+
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **Angular 2+, HTML, CSS, Javascript and Typescript**
+- Backend development using **ASP.NET Core, ASP.NET Framework and Node.js**
+- Mobile development using **Xamarin Forms and Flutter**
+- Relational databases using **Oracle, MySQL and SQL Server**
+- Non-relational using like **MongoDB and Elastic Search**
+- Messaging using **RabbitMQ**
+- Virtualization with **Docker**
+- Source Control using **GIT and TFS**
+- Agile Methodologies
+
+## 📫 Contact Me
+- LinkedIn - [Here](https://www.linkedin.com/in/leonardo-buta/)
+- Gmail - [Here](mailto:leonardo.lbuta@gmail.com)
+- StackOverflow(PT) - [Here](https://pt.stackoverflow.com/users/131001/leonardo-buta)
+- Youtube - [Here](https://www.youtube.com/channel/UCBnUo0vRBTSYPoptKhdGlUQ)
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vando-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vando-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
